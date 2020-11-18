@@ -1,32 +1,54 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
     <router-view/>
+    <!-- Mobile Navigation -->
+    <footer>
+      <nav class="c-nav-mobile">
+        <ul class="c-nav-mobile__list">
+          <li
+            v-for="item in navItems"
+            :key="item.name"
+            class="c-nav-mobile__list-item"
+          >
+            <router-link :to="{ name: item.name }">
+              {{ item.text }}
+            </router-link>
+          </li>
+        </ul>
+      </nav>
+    </footer>
   </div>
 </template>
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<script>
+import { ACTION_TYPES } from '@/store';
 
-#nav {
-  padding: 30px;
+export default {
+  data() {
+    return {
+      navItems: [
+        {
+          name: 'fish',
+          text: 'Fish',
+        },
+        {
+          name: 'bugs',
+          text: 'Bugs',
+        },
+        {
+          name: 'diving',
+          text: 'Diving',
+        },
+        {
+          name: 'settings',
+          text: 'Settings',
+        },
+      ],
+    };
+  },
 
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
-}
-</style>
+  mounted() {
+    this.$store.dispatch(ACTION_TYPES.START_TIME);
+  },
+};
+</script>

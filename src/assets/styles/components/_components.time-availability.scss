@@ -1,0 +1,17 @@
+.c-time-availability {
+
+  &__item {
+    padding: $space-xs $space-s;
+    border-radius: $space-s;
+    background: color('theme-bg', 'alt');
+    width: $space-xxl;
+    text-align: center;
+    margin-bottom: $space-s;
+    font-size: $font-xs;
+
+    &.active {
+      background: color('teal', 'white');
+      color: color('theme-bg');
+    }
+  }
+}

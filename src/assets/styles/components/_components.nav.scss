@@ -1,0 +1,23 @@
+// Account for the nav
+#app {
+  padding-bottom: $space-xxl;
+}
+
+.c-nav-mobile {
+  background: color('theme-bg', 'alt');
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  width: 100vw;
+  z-index: $z-global-nav;
+
+  &__list {
+    display: flex;
+  }
+
+  &__list-item {
+    flex: 1 0 0;
+    text-align: center;
+    padding: $space-m 0;
+  }
+}
