@@ -25,4 +25,14 @@ module.exports = (Vue) => {
       timeStyle: 'short',
     }).format(date);
   });
+
+  Vue.filter('monthShort', (date) => {
+    if (!isValidDate(date)) {
+      console.warn('The value to be filtered must be a valid date object.');
+      return date;
+    }
+    return new Intl.DateTimeFormat(lang, {
+      month: 'short',
+    }).format(date);
+  });
 };

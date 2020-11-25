@@ -1,0 +1,13 @@
+.c-filter {
+  background: none;
+  border-radius: $space-xxs;
+  border: 2px solid color('theme-text', 'alt');
+  color: color('theme-text');
+  cursor: pointer;
+  padding: $space-xs;
+
+  &.active {
+    background: color('theme-text');
+    color: color('theme-bg');
+  }
+}

@@ -49,6 +49,7 @@ export default {
 
   mounted() {
     this.$store.dispatch(ACTION_TYPES.START_TIME);
+    this.$store.dispatch(ACTION_TYPES.INIT_CAUGHT_STATUS);
   },
 };
 </script>

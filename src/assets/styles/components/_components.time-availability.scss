@@ -1,16 +1,17 @@
 .c-time-availability {
 
   &__item {
-    padding: $space-xs $space-s;
-    border-radius: $space-s;
     background: color('theme-bg', 'alt');
-    width: $space-xxl;
-    text-align: center;
-    margin-bottom: $space-s;
+    border-radius: $space-s;
+    color: color('theme-text', 'alt');
     font-size: $font-xs;
+    margin-bottom: $space-s;
+    padding: $space-xs $space-s;
+    text-align: center;
+    width: $space-xxl;
 
     &.active {
-      background: color('teal', 'white');
+      background: color('teal');
       color: color('theme-bg');
     }
   }

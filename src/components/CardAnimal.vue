@@ -9,23 +9,41 @@
     >
       {{ animal.name }}
     </h3>
-    <div class="c-card__body">
-      <!-- TODO: Image -->
-      <div>
+    <div class="c-card__body u-d-flex">
+      <!-- TODO: Add all the images and make this dynamic -->
+      <img src="/img/fish/bitterling.png" alt="" />
+      <div class="u-m-left-s">
         <!-- TODO: Tooltip -->
         <p>{{ animal.location }}</p>
         <p v-if="animal.size">{{ animal.size }}</p>
-        <!-- TODO: Collapse -->
-        <details>
-          <summary>Time</summary>
-          <TimeAvailability :hours="animal.hours" />
-        </details>
+        <div class="c-input__group">
+          <input
+            :id="`caught_${animal.id}`"
+            type="checkbox"
+            v-model="isAnimalCaught"
+          >
+          <label>
+            Caught
+          </label>
+        </div>
       </div>
+    </div>
+    <div class="u-p-s">
+      <!-- TODO: Collapse -->
+      <details>
+        <summary>Availability</summary>
+        <TimeAvailability
+          :months="animal.months"
+          :hours="animal.hours"
+        />
+      </details>
     </div>
   </li>
 </template>
 
 <script>
+import { mapGetters } from 'vuex';
+import { ACTION_TYPES, GETTER_TYPES } from '@/store';
 import TimeAvailability from '@/components/TimeAvailability.vue';
 
 export default {
@@ -48,6 +66,22 @@ export default {
 
   components: {
     TimeAvailability,
+  },
+
+  computed: {
+    ...mapGetters([GETTER_TYPES.GET_CAUGHT_STATUS]),
+
+    isAnimalCaught: {
+      get() {
+        return this[GETTER_TYPES.GET_CAUGHT_STATUS](this.animal.id);
+      },
+      set(val) {
+        this.$store.dispatch(ACTION_TYPES.SET_CAUGHT_STATUS, {
+          id: this.animal.id,
+          val,
+        });
+      },
+    },
   },
 };
 </script>

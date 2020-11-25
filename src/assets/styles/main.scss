@@ -1,12 +1,13 @@
-@import "../../../../scss-base/settings/settings.theme";
-@import "../../../../scss-base/settings/all";
+@import "node_modules/scss-base/settings/settings.theme";
+@import "node_modules/scss-base/settings/all";
+@import "./settings/all";
 
-@import "../../../../scss-base/tools/all";
-@import "../../../../scss-base/generic/all";
-@import "../../../../scss-base/elements/all";
-@import "../../../../scss-base/objects/all";
+@import "node_modules/scss-base/tools/all";
+@import "node_modules/scss-base/generic/all";
+@import "node_modules/scss-base/elements/all";
+@import "node_modules/scss-base/objects/all";
 
-@import "../../../../scss-base/components/all";
+@import "node_modules/scss-base/components/all";
 @import "./components/all";
 
-@import "../../../../scss-base/utilities/all";
+@import "node_modules/scss-base/utilities/all";
