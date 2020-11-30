@@ -9597,9 +9597,9 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-"vue-base@github:bhgeorge/vue-base#v1.1.15":
-  version "1.1.15"
-  resolved "https://codeload.github.com/bhgeorge/vue-base/tar.gz/867ab15a8372460bc952f28d73088416e549b8d8"
+"vue-base@github:bhgeorge/vue-base#v1.1.16":
+  version "1.1.16"
+  resolved "https://codeload.github.com/bhgeorge/vue-base/tar.gz/73a3d657166081cbc14db096f8af4f4e769b707b"
   dependencies:
     ally.js "^1.4.1"
     lodash "^4.17.15"

@@ -3,18 +3,28 @@
     :is="htmlTag"
     class="c-card c-card--outline"
   >
+    <!-- Leaving this month  -->
+    <div
+      v-if="isLeavingThisMonth"
+      class="c-card-animal__alert"
+      title="Last chance! Leaving this month"
+    >
+      <Icon
+        :modifiers="['o-icon--s']"
+        type="timer"
+      />
+    </div>
     <h3
       :is="titleTag"
-      class="c-card__title"
+      class="c-card__title c-card-animal__title"
     >
       {{ animal.name }}
     </h3>
     <div class="c-card__body u-d-flex">
-      <!-- TODO: Add all the images and make this dynamic -->
-      <img src="/img/fish/bitterling.png" alt="" />
+      <img :src="imgSrc" alt="" />
       <div class="u-m-left-s">
         <!-- TODO: Tooltip -->
-        <p>{{ animal.location }}</p>
+        <p v-if="animal.location">{{ animal.location }}</p>
         <p v-if="animal.size">{{ animal.size }}</p>
         <div class="c-input__group">
           <input
@@ -42,7 +52,8 @@
 </template>
 
 <script>
-import { mapGetters } from 'vuex';
+import { mapGetters, mapState } from 'vuex';
+import { format } from 'date-fns';
 import { ACTION_TYPES, GETTER_TYPES } from '@/store';
 import TimeAvailability from '@/components/TimeAvailability.vue';
 
@@ -71,6 +82,15 @@ export default {
   computed: {
     ...mapGetters([GETTER_TYPES.GET_CAUGHT_STATUS]),
 
+    ...mapState(['now']),
+
+    imgSrc() {
+      if (!this.animal.img) {
+        return '/img/fish/bitterling.png';
+      }
+      return `/img/${this.animal.img}`;
+    },
+
     isAnimalCaught: {
       get() {
         return this[GETTER_TYPES.GET_CAUGHT_STATUS](this.animal.id);
@@ -81,6 +101,12 @@ export default {
           val,
         });
       },
+    },
+
+    isLeavingThisMonth() {
+      const monthInt = format(this.now, 'M') - 1;
+      const nextMonthInt = monthInt === 11 ? 0 : monthInt + 1;
+      return (this.animal.months.includes(monthInt) && !this.animal.months.includes(nextMonthInt));
     },
   },
 };

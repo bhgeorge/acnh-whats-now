@@ -1,0 +1,20 @@
+.c-card-animal {
+  &__title {
+    font-size: $font-m !important;
+    top: -#{$space-m} !important;
+    font-weight: $font-bold;
+  }
+
+  &__alert {
+    background: color('theme-bg', 'alt');
+    border-radius: 50%;
+    height: $space-m;
+    position: absolute;
+    right: -#{$space-xs};
+    text-align: center;
+    top: -#{$space-xs};
+    width: $space-m;
+    z-index: $z-local-top;
+    box-shadow: 0 0 $space-s 0 color('theme-bg', 'accent');
+  }
+}

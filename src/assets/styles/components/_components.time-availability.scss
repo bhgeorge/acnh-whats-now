@@ -3,7 +3,6 @@
   &__item {
     background: color('theme-bg', 'alt');
     border-radius: $space-s;
-    color: color('theme-text', 'alt');
     font-size: $font-xs;
     margin-bottom: $space-s;
     padding: $space-xs $space-s;
@@ -12,7 +11,6 @@
 
     &.active {
       background: color('teal');
-      color: color('theme-bg');
     }
   }
 }

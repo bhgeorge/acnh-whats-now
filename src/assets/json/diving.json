@@ -1,0 +1,282 @@
+[
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d01",
+    "img": "diving/seaweed.png",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Seaweed"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d02",
+    "img": "diving/seagrapes.png",
+    "months": [5, 6, 7, 8],
+    "name": "Sea Grapes"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d03",
+    "img": "diving/seacucumber.png",
+    "months": [0, 1, 2, 3, 10, 11],
+    "name": "Sea Cucumber"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d04",
+    "img": "diving/seapig.png",
+    "months": [0, 1, 10, 11],
+    "name": "Sea Pig"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d05",
+    "img": "diving/seastar.png",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Sea Star"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d06",
+    "img": "diving/seaurchin.png",
+    "months": [4, 5, 6, 7, 8],
+    "name": "Sea Urchin"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d07",
+    "img": "diving/slatepencilurchin.png",
+    "months": [4, 5, 6, 7, 8],
+    "name": "Slate Pencil Urchin"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d08",
+    "img": "diving/seaanemone.png",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Sea Anemone"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d09",
+    "img": "diving/moonjellyfish.png",
+    "months": [6, 7, 8],
+    "name": "Moon Jellyfish"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d10",
+    "img": "diving/seaslug.png",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Sea Slug"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d11",
+    "img": "diving/pearloyster.png",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Pearl Oyster"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d12",
+    "img": "diving/mussel.png",
+    "months": [6, 7, 8, 9, 10, 11],
+    "name": "Mussel"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d13",
+    "img": "diving/oyster.png",
+    "months": [0, 1, 8, 9, 10, 11],
+    "name": "Oyster"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d14",
+    "img": "diving/scallop.png",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Scallop"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d15",
+    "img": "diving/whelk.png",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Whelk"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d16",
+    "img": "diving/turbanshell.png",
+    "months": [2, 3, 4, 8, 9, 10, 11],
+    "name": "Turban Shell"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d17",
+    "img": "diving/abalone.png",
+    "months": [0, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Abalone"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d18",
+    "img": "diving/gigasgiantclam.png",
+    "months": [4, 5, 6, 7, 8],
+    "name": "Gigas Giant Clam"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d19",
+    "img": "diving/chamberednautilus.png",
+    "months": [2, 3, 4, 5, 8, 9, 10],
+    "name": "Chambered Nautilus"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d20",
+    "img": "diving/octopus.png",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Octopus"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d21",
+    "img": "diving/umbrellaoctopus.png",
+    "months": [2, 3, 4, 8, 9, 10],
+    "name": "Umbrella Octopus"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d22",
+    "img": "diving/vampiresquid.png",
+    "months": [4, 5, 6, 7],
+    "name": "Vampire Squid"
+  },
+  {
+    "hours": [0, 1, 2, 3, 21, 22, 23],
+    "id": "d23",
+    "img": "diving/fireflysquid.png",
+    "months": [2, 3, 4, 5],
+    "name": "Firefly Squid"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d24",
+    "img": "diving/gazamicrab.png",
+    "months": [5, 6, 7, 8, 9, 10],
+    "name": "Gazami Crab"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d25",
+    "img": "diving/dungenesscrab.png",
+    "months": [0, 1, 2, 3, 4, 10, 11],
+    "name": "Dungeness Crab"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d26",
+    "img": "diving/snowcrab.png",
+    "months": [0, 1, 2, 3, 10, 11],
+    "name": "Snow Crab"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d27",
+    "img": "diving/redkingcrab.png",
+    "months": [0, 1, 2, 3, 10, 11],
+    "name": "Red King Crab"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d28",
+    "img": "diving/acornbarnacle.png",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Acorn Barnacle"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d29",
+    "img": "diving/spidercrab.png",
+    "months": [2, 3],
+    "name": "Spider Crab"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d30",
+    "img": "diving/tigerprawn.png",
+    "months": [5, 6, 7, 8],
+    "name": "Tiger Prawn"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d31",
+    "img": "diving/sweetshrimp.png",
+    "months": [0, 1, 8, 9, 10, 11],
+    "name": "Sweet Shrimp"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d32",
+    "img": "diving/mantisshrimp.png",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Mantis Shrimp"
+  },
+  {
+    "hours": [0, 1, 2, 3, 21, 22, 23],
+    "id": "d33",
+    "img": "diving/spinylobster.png",
+    "months": [9, 10, 11],
+    "name": "Spiny Lobster"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d34",
+    "img": "diving/lobster.png",
+    "months": [0, 3, 4, 5, 11],
+    "name": "Lobster"
+  },
+  {
+    "hours": [0, 1, 2, 3, 9, 10, 11, 12, 13, 14, 15, 16, 21, 22, 23],
+    "id": "d35",
+    "img": "diving/giantisopod.png",
+    "months": [6, 7, 8, 9],
+    "name": "Giant Isopod"
+  },
+  {
+    "hours": [0, 1, 2, 3, 21, 22, 23],
+    "id": "d36",
+    "img": "diving/horseshoecrab.png",
+    "months": [6, 7, 8],
+    "name": "Horseshoe Crab"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d37",
+    "img": "diving/seapineapple.png",
+    "months": [3, 4, 5, 6, 7],
+    "name": "Sea Pineapple"
+  },
+  {
+    "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+    "id": "d38",
+    "img": "diving/spottedgardeneel.png",
+    "months": [4, 5, 6, 7, 8, 9],
+    "name": "Spotted Garden Eel"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d39",
+    "img": "diving/flatworm.png",
+    "months": [7, 8],
+    "name": "Flatworm"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "d40",
+    "img": "diving/venusflowerbasket.png",
+    "months": [0, 1, 9, 10, 11],
+    "name": "Venus' Flower Basket"
+  }
+]

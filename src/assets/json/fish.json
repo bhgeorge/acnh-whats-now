@@ -2,6 +2,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f01",
+    "img": "fish/bitterling.png",
     "location": "river",
     "months": [0, 1, 2, 10, 11],
     "name": "Bitterling",
@@ -10,6 +11,7 @@
   {
     "hours": [9, 10, 11, 12, 13, 14, 15],
     "id": "f02",
+    "img": "fish/palechub.png",
     "location": "river",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Pale Chub",
@@ -18,6 +20,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f03",
+    "img": "fish/cruciancarp.png",
     "location": "river",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Crucian Carp",
@@ -26,6 +29,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f04",
+    "img": "fish/dace.png",
     "location": "river",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Dace",
@@ -34,6 +38,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f05",
+    "img": "fish/carp.png",
     "location": "pond",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Carp",
@@ -42,6 +47,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f06",
+    "img": "fish/koi.png",
     "location": "pond",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Koi",
@@ -50,6 +56,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f07",
+    "img": "fish/goldfish.png",
     "location": "pond",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Goldfish",
@@ -58,6 +65,7 @@
   {
     "hours": [9, 10, 11, 12, 13, 14, 15],
     "id": "f08",
+    "img": "fish/popeyedgoldfish.png",
     "location": "pond",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Pop-eyed Goldfish",
@@ -66,6 +74,7 @@
   {
     "hours": [9, 10, 11, 12, 13, 14, 15],
     "id": "f09",
+    "img": "fish/ranchugoldfish.png",
     "location": "pond",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Ranchu Goldfish",
@@ -74,6 +83,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "id": "f10",
+    "img": "fish/killifish.png",
     "location": "pond",
     "months": [3, 4, 5, 6, 7],
     "name": "Killifish",
@@ -82,6 +92,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f11",
+    "img": "fish/crawfish.png",
     "location": "pond",
     "months": [3, 4, 5, 6, 7, 8],
     "name": "Crawfish",
@@ -90,6 +101,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f12",
+    "img": "fish/softshelledturtle.png",
     "location": "river",
     "months": [7, 8],
     "name": "Soft Shelled Turtle",
@@ -98,6 +110,7 @@
   {
     "hours": [0, 1, 2, 21, 22, 23],
     "id": "f13",
+    "img": "fish/snappingturtle.png",
     "location": "river",
     "months": [3, 4, 5, 6, 7, 8, 9],
     "name": "Snapping Turtle",
@@ -106,6 +119,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f14",
+    "img": "fish/tadpole.png",
     "location": "pond",
     "months": [2, 3, 4, 5, 6, 7],
     "name": "Tadpole",
@@ -114,6 +128,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f15",
+    "img": "fish/frog.png",
     "location": "pond",
     "months": [4, 5, 6, 7],
     "name": "Frog",
@@ -122,6 +137,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f16",
+    "img": "fish/freshwatergoby.png",
     "location": "river",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Freshwater Goby",
@@ -130,6 +146,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f17",
+    "img": "fish/loach.png",
     "location": "river",
     "months": [2, 3, 4],
     "name": "Loach",
@@ -138,6 +155,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f18",
+    "img": "fish/catfish.png",
     "location": "pond",
     "months": [4, 5, 6, 7],
     "name": "Catfish",
@@ -146,6 +164,7 @@
   {
     "hours": [9, 10, 11, 12, 13, 14, 15],
     "id": "f19",
+    "img": "fish/giantsnakehead.png",
     "location": "pond",
     "months": [5, 6, 7],
     "name": "Giant Snakehead",
@@ -154,6 +173,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f20",
+    "img": "fish/bluegill.png",
     "location": "river",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Bluegill",
@@ -162,6 +182,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f21",
+    "img": "fish/yellowperch.png",
     "location": "river",
     "months": [0, 1, 2, 9, 10, 11],
     "name": "Yellow Perch",
@@ -170,6 +191,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f22",
+    "img": "fish/blackbass.png",
     "location": "river",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Black Bass",
@@ -178,6 +200,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f23",
+    "img": "fish/tilapia.png",
     "location": "river",
     "months": [5, 6, 7, 8, 9],
     "name": "Tilapia",
@@ -186,6 +209,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f24",
+    "img": "fish/pike.png",
     "location": "river",
     "months": [8, 9, 10, 11],
     "name": "Pike",
@@ -194,6 +218,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f25",
+    "img": "fish/pondsmelt.png",
     "location": "river",
     "months": [0, 1, 12],
     "name": "Pond Smelt",
@@ -202,6 +227,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f26",
+    "img": "fish/sweetfish.png",
     "location": "river",
     "months": [6, 7, 8],
     "name": "Sweetfish",
@@ -210,6 +236,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f27",
+    "img": "fish/cherrysalmon.png",
     "location": "river_cliff",
     "months": [2, 3, 4, 5, 8, 9, 10],
     "name": "Cherry Salmon",
@@ -218,6 +245,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f28",
+    "img": "fish/char.png",
     "location": "river_cliff",
     "months": [2, 3, 4, 5, 6, 7, 8, 9, 10],
     "name": "Char",
@@ -226,6 +254,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f29",
+    "img": "fish/goldentrout.png",
     "location": "river",
     "months": [0, 1, 2, 9, 10, 11],
     "name": "Golden Trout",
@@ -234,6 +263,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f30",
+    "img": "fish/stringfish.png",
     "location": "river",
     "months": [0, 1, 2, 9, 10, 11],
     "name": "Stringfish",
@@ -242,6 +272,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f31",
+    "img": "fish/salmon.png",
     "location": "river_mouth",
     "months": [8],
     "name": "Salmon",
@@ -250,14 +281,16 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f32",
+    "img": "fish/kingsalmon.png",
     "location": "river_mouth",
     "months": [8],
     "name": "King Salmon",
-    "size": "xl"
+    "size": "xxl"
   },
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f33",
+    "img": "fish/mittencrab.png",
     "location": "river",
     "months": [8, 9, 10],
     "name": "Mitten Crab",
@@ -266,6 +299,7 @@
   {
     "hours": [9, 10, 11, 12, 13, 14, 15],
     "id": "f34",
+    "img": "fish/guppy.png",
     "location": "river",
     "months": [3, 4, 5, 6, 7, 8, 9, 10],
     "name": "Guppy",
@@ -274,6 +308,7 @@
   {
     "hours": [9, 10, 11, 12, 13, 14, 15],
     "id": "f35",
+    "img": "fish/nibblefish.png",
     "location": "river",
     "months": [4, 5, 6, 7, 8],
     "name": "Nibble Fish",
@@ -282,14 +317,16 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f36",
+    "img": "fish/angelfish.png",
     "location": "river",
     "months": [4, 5, 6, 7, 8, 9],
-    "name": "Anglefish",
+    "name": "Angelfish",
     "size": "s"
   },
   {
     "hours": [9, 10, 11, 12, 13, 14, 15, 16],
     "id": "f37",
+    "img": "fish/betta.png",
     "location": "river",
     "months": [4, 5, 6, 7, 8, 9],
     "name": "Betta",
@@ -298,6 +335,7 @@
   {
     "hours": [9, 10, 11, 12, 13, 14, 15, 16],
     "id": "f38",
+    "img": "fish/neontetra.png",
     "location": "river",
     "months": [3, 4, 5, 6, 7, 8, 9, 10],
     "name": "Neon Tetra",
@@ -306,6 +344,7 @@
   {
     "hours": [9, 10, 11, 12, 13, 14, 15, 16],
     "id": "f39",
+    "img": "fish/rainbowfish.png",
     "location": "river",
     "months": [4, 5, 6, 7, 8, 9],
     "name": "Rainbowfish",
@@ -314,6 +353,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 9, 10, 11, 12, 13, 14, 15, 16, 21, 22, 23],
     "id": "f40",
+    "img": "fish/piranha.png",
     "location": "river",
     "months": [5, 6, 7, 8],
     "name": "Piranha",
@@ -322,6 +362,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f41",
+    "img": "fish/arowana.png",
     "location": "river",
     "months": [5, 6, 7, 8],
     "name": "Arowana",
@@ -330,6 +371,7 @@
   {
     "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
     "id": "f42",
+    "img": "fish/dorado.png",
     "location": "river",
     "months": [8],
     "name": "Dorado",
@@ -338,22 +380,25 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f43",
+    "img": "fish/gar.png",
     "location": "pond",
     "months": [5, 6, 7, 8, 9, 10],
     "name": "Gar",
-    "size": "xl"
+    "size": "xxl"
   },
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f44",
+    "img": "fish/arapaima.png",
     "location": "river",
     "months": [8],
     "name": "Arapaima",
-    "size": "xl"
+    "size": "xxl"
   },
   {
     "hours": [0, 1, 2, 3, 4, 21, 22, 23],
     "id": "f45",
+    "img": "fish/saddledbichir.png",
     "location": "river",
     "months": [5, 6, 7, 8],
     "name": "Saddled Bichir",
@@ -362,14 +407,16 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f46",
+    "img": "fish/sturgeon.png",
     "location": "river_mouth",
     "months": [0, 1, 2, 8, 9, 10, 11],
     "name": "Sturgeon",
-    "size": "l"
+    "size": "xxl"
   },
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f47",
+    "img": "fish/seabutterfly.png",
     "location": "ocean",
     "months": [0, 1, 2, 11],
     "name": "Sea Butterfly",
@@ -378,6 +425,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f48",
+    "img": "fish/seahorse.png",
     "location": "ocean",
     "months": [0, 1, 2, 3, 10, 11],
     "name": "Sea Horse",
@@ -386,6 +434,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f49",
+    "img": "fish/clownfish.png",
     "location": "ocean",
     "months": [0, 1, 2, 3, 8, 9, 10, 11],
     "name": "Clown Fish",
@@ -394,6 +443,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f50",
+    "img": "fish/surgeonfish.png",
     "location": "ocean",
     "months": [0, 1, 2, 3, 8, 9, 10, 11],
     "name": "Surgeonfish",
@@ -402,6 +452,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f51",
+    "img": "fish/butterflyfish.png",
     "location": "ocean",
     "months": [0, 1, 2, 3, 8, 9, 10, 11],
     "name": "Butterfly Fish",
@@ -410,6 +461,7 @@
   {
     "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
     "id": "f52",
+    "img": "fish/napoleonfish.png",
     "location": "ocean",
     "months": [6, 7],
     "name": "Napoleonfish",
@@ -418,6 +470,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f53",
+    "img": "fish/zebraturkeyfish.png",
     "location": "ocean",
     "months": [3, 4, 5, 6, 7, 8, 9, 10],
     "name": "Zebra Tukeyfish",
@@ -426,6 +479,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 21, 22, 23],
     "id": "f54",
+    "img": "fish/blowfish.png",
     "location": "ocean",
     "months": [8],
     "name": "Blowfish",
@@ -434,6 +488,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f55",
+    "img": "fish/pufferfish.png",
     "location": "ocean",
     "months": [6, 7, 8],
     "name": "Puffer Fish",
@@ -442,6 +497,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 21, 22, 23],
     "id": "f56",
+    "img": "fish/anchovy.png",
     "location": "ocean",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Anchovy",
@@ -450,6 +506,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f57",
+    "img": "fish/horsemackerel.png",
     "location": "ocean",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Horse Mackerel",
@@ -458,6 +515,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f58",
+    "img": "fish/barredknifejaw.png",
     "location": "ocean",
     "months": [2, 3, 4, 5, 6, 7, 8, 9, 10],
     "name": "Barred Knifejaw",
@@ -466,6 +524,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f59",
+    "img": "fish/seabass.png",
     "location": "ocean",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Sea Bass",
@@ -474,6 +533,7 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f60",
+    "img": "fish/redsnapper.png",
     "location": "ocean",
     "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
     "name": "Red Snapper",
@@ -482,9 +542,181 @@
   {
     "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "id": "f61",
+    "img": "fish/dab.png",
     "location": "ocean",
     "months": [0, 1, 2, 3, 9, 10, 11],
     "name": "Dab",
     "size": "m"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f62",
+    "img": "fish/oliveflounder.png",
+    "location": "ocean",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Olive Flounder",
+    "size": "l"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f63",
+    "img": "fish/squid.png",
+    "location": "ocean",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 11],
+    "name": "Squid",
+    "size": "m"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f64",
+    "img": "fish/morayeel.png",
+    "location": "ocean",
+    "months": [7, 8, 9],
+    "name": "Moray Eel",
+    "size": "n"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f65",
+    "img": "fish/ribboneel.png",
+    "location": "ocean",
+    "months": [5, 6, 7, 8, 9],
+    "name": "Ribbon Eel",
+    "size": "n"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f66",
+    "img": "fish/tuna.png",
+    "location": "pier",
+    "months": [0, 1, 2, 3, 10, 11],
+    "name": "Tuna",
+    "size": "xxl"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f67",
+    "img": "fish/bluemarlin.png",
+    "location": "pier",
+    "months": [0, 1, 2, 3, 6, 7, 8, 10, 11],
+    "name": "Blue Marlin",
+    "size": "xxl"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f68",
+    "img": "fish/gianttrevally.png",
+    "location": "pier",
+    "months": [4, 5, 6, 7, 8, 9],
+    "name": "Giant Trevally",
+    "size": "xl"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f69",
+    "img": "fish/mahimahi.png",
+    "location": "pier",
+    "months": [0, 1, 2, 3, 9, 10, 11],
+    "name": "Mahi-mahi",
+    "size": "xl"
+  },
+  {
+    "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+    "id": "f70",
+    "img": "fish/oceansunfish.png",
+    "location": "ocean",
+    "months": [0, 1, 2, 3, 9, 10, 11],
+    "name": "Ocean Sunfish",
+    "size": "f"
+  },
+  {
+    "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+    "id": "f71",
+    "img": "fish/ray.png",
+    "location": "ocean",
+    "months": [7, 8, 9, 10],
+    "name": "Ray",
+    "size": "xl"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f72",
+    "img": "fish/sawshark.png",
+    "location": "ocean",
+    "months": [5, 6, 7, 8],
+    "name": "Saw Shark",
+    "size": "f"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f73",
+    "img": "fish/hammerheadshark.png",
+    "location": "ocean",
+    "months": [5, 6, 7, 8],
+    "name": "Hammerhead Shark",
+    "size": "f"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f74",
+    "img": "fish/greatwhiteshark.png",
+    "location": "ocean",
+    "months": [5, 6, 7, 8],
+    "name": "Great White Shark",
+    "size": "f"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f75",
+    "img": "fish/whaleshark.png",
+    "location": "ocean",
+    "months": [5, 6, 7, 8],
+    "name": "Whale Shark",
+    "size": "f"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f76",
+    "img": "fish/suckerfish.png",
+    "location": "ocean",
+    "months": [5, 6, 7, 8],
+    "name": "Suckerfish",
+    "size": "f"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f77",
+    "img": "fish/footballfish.png",
+    "location": "ocean",
+    "months": [0, 1, 2, 9, 10, 11],
+    "name": "Football Fish",
+    "size": "m"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f78",
+    "img": "fish/oarfish.png",
+    "location": "ocean",
+    "months": [0, 1, 2, 3, 11],
+    "name": "Oarfish",
+    "size": "xxl"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 21, 22, 23],
+    "id": "f79",
+    "img": "fish/barreleye.png",
+    "location": "ocean",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Barreleye",
+    "size": "s"
+  },
+  {
+    "hours": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "id": "f80",
+    "img": "fish/coelacanth.png",
+    "location": "ocean_rain",
+    "months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "name": "Coelacanth",
+    "size": "xxl"
   }
 ]

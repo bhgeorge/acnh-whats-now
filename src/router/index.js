@@ -4,6 +4,8 @@ import AnimalList from '../views/AnimalList.vue';
 
 // Animal Data
 import allFish from '../assets/json/fish.json';
+import allBugs from '../assets/json/bugs.json';
+import allDiving from '../assets/json/diving.json';
 
 Vue.use(VueRouter);
 
@@ -11,20 +13,30 @@ const routes = [
   {
     path: '/fish',
     name: 'fish',
-    component: AnimalList,
+    component: () => import(/* webpackChunkName: "animalList" */ '../views/AnimalList.vue'),
     props: {
       title: 'Fish',
       animals: allFish,
     },
   },
-  // {
-  //   path: '/about',
-  //   name: 'About',
-  //   // route level code-splitting
-  //   // this generates a separate chunk (about.[hash].js) for this route
-  //   // which is lazy-loaded when the route is visited.
-  //   component: () => import(/* webpackChunkName: "about" */ '../views/About.vue'),
-  // },
+  {
+    path: '/bugs',
+    name: 'bugs',
+    component: () => import(/* webpackChunkName: "animalList" */ '../views/AnimalList.vue'),
+    props: {
+      title: 'Bugs',
+      animals: allBugs,
+    },
+  },
+  {
+    path: '/diving',
+    name: 'diving',
+    component: () => import(/* webpackChunkName: "animalList" */ '../views/AnimalList.vue'),
+    props: {
+      title: 'Diving',
+      animals: allDiving,
+    },
+  },
 ];
 
 const router = new VueRouter({

@@ -1,0 +1,33 @@
+// Background
+$theme-bg-base: #fcf7cf;
+$theme-bg-alt: #dad888;
+$theme-bg-accent: $theme-bg-alt;
+
+// Text
+$theme-text-base: #292932;
+$theme-text-alt: #19191b;
+
+// Interaction
+$theme-interaction-base: #cd3a3a;
+$theme-interaction-hover: #9b2731;
+$theme-interaction-active: $theme-text-base;
+$theme-interaction-accent: #0b9371;
+
+// Focus
+$theme-focus: #f3d327;
+
+// States
+$theme-state-error: #cd3a3a;
+$theme-state-success: #62d790;
+$theme-state-warning: $theme-focus;
+
+// Nav
+$theme-nav-bg: $theme-bg-alt;
+$theme-nav-shadow: $theme-bg-base;
+$theme-nav-text: $theme-interaction-active;
+$theme-nav-hover: $theme-interaction-accent;
+
+// Code
+$theme-code-header-bg: $theme-bg-alt;
+$theme-code-header-text: $theme-text-base;
+$theme-code-text: $theme-text-alt;
